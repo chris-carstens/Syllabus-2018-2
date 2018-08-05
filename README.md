@@ -29,11 +29,24 @@ Nombre              | Email
 Isidora Vizcaya     | [isvizcaya@uc.cl]
 Fernando Pieressa   | [fapieressa@uc.cl]
 Stephanie Chau      | [schau@uc.cl]
+Thomas Reisenegger  | [treisenegger@uc.cl]
+Romano Fenzo        | [rfenzo@uc.cl]
+Felipe Silva        | [lfsilva1@uc.cl]
+Wenyi He Yang       | [whe1@uc.cl]
+Martín Álamos       | [malamos2@uc.cl]
+Kevin Johnson       | [kjjohnson@uc.cl]
+
 
 [assoto@uc.cl]: mailto:assoto@uc.cl
 [isvizcaya@uc.cl]: mailto:isvizcaya@uc.cl
 [fapieressa@uc.cl]: mailto:fapieressa@uc.cl
 [schau@uc.cl]: mailto:schau@uc.cl
+[treisenegger@uc.cl]: mailto:treisenegger@uc.cl
+[rfenzo@uc.cl]: mailto:rfenzo@uc.cl
+[lfsilva1@uc.cl]: mailto:lfsilva1@uc.cl
+[whe1@uc.cl]: mailto:whe1@uc.cl
+[malamos2@uc.cl]: mailto:malamos2@uc.cl
+[kjjohnson@uc.cl]: mailto:kjjohnson@uc.cl
 
 ---
 
