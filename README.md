@@ -35,6 +35,7 @@ Felipe Silva        | [lfsilva1@uc.cl]
 Wenyi He Yang       | [whe1@uc.cl]
 Martín Álamos       | [malamos2@uc.cl]
 Kevin Johnson       | [kjjohnson@uc.cl]
+Antonio Ossa        | [aaossa@uc.cl]
 
 
 [assoto@uc.cl]: mailto:assoto@uc.cl
@@ -47,6 +48,7 @@ Kevin Johnson       | [kjjohnson@uc.cl]
 [whe1@uc.cl]: mailto:whe1@uc.cl
 [malamos2@uc.cl]: mailto:malamos2@uc.cl
 [kjjohnson@uc.cl]: mailto:kjjohnson@uc.cl
+[aaossa@uc.cl]: mailto:aaossa@uc.cl
 
 ---
 
