@@ -1,4 +1,4 @@
-id_servicio,nombre,precio,descripcion,id_servicio,id_servicio1
+id_servicio,nombre,precio,descripcion,id_servicio,id_compraservicio
 0,Una cena para dos personas,"$68.350,00","Lorem ipsum dolor sit amet, consectetur adipiscing elit",0,0
 0,Una cena para dos personas,"$68.350,00","Lorem ipsum dolor sit amet, consectetur adipiscing elit",0,1
 6,Tres entradas con bus al paseo de la playa,"$28.812,00",sunt in culpa qui officia deserunt mollit anim id est laborum,6,2
